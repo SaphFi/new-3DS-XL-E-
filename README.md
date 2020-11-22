@@ -1,1 +1,1 @@
-# new-3DS-XL-E-
+ctrnand_full for new 3DS XL version 11.13.0-45E
